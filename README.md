@@ -1,5 +1,3 @@
-# petshop-control-system
-
 # Sistema de Controle de Banho
 
 Este projeto é um sistema de simulação interativa via terminal para o controle de uma máquina de banho automatizada de pet shop. O software gerencia os recursos internos da máquina (água e shampoo), o estado de higiene do equipamento e o fluxo de atendimento do animal (entrada, banho e saída).
