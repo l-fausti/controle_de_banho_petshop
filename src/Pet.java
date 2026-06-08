@@ -4,7 +4,6 @@ public class Pet {
 
     private boolean clean;
 
-
     //alt+ins
     public Pet(String name) {
         this.name = name;

@@ -80,5 +80,4 @@ public class Main {
         var pet = new Pet(name);
         petmachine.setPet(pet);
     }
-
 }
